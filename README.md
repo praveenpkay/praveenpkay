@@ -1,6 +1,6 @@
 ### Hi there 👋 Thanks for checking out my Repository! Here are my Projects:
 
-[Google](https://www.google.com)
+[1. OPEN AI Based Review Intelligence](https://github.com/praveenpkay/OpenAI-Driven-Review-Intelligence-In-Beauty-Industry)
 
 
 
