@@ -1,4 +1,10 @@
-## Hi there! 👋 Thanks for checking out my Repository! Here are my Projects!
+# Hi there! 👋 Thanks for checking out my Repository! 
+- 🤓 I’m currently studying Master of Science in Business Analytics (MSBA) in UMN - Carlson School
+- ✨ Check out my [LinkedIn](https://www.linkedin.com/in/praveenpkay/)!!
+- 💬 Ask me about Predictive Modeling or Storyboarding!! - I love making Presentations!  
+- 📧 You can also reach me through: govin098@umn.edu </br>
+
+## Here are my Projects!
 
 ### **1. Product Analytics – Open-AI driven product innovation in the beauty industry:**
 
@@ -33,3 +39,10 @@ Checkout the detailed work [here](https://github.com/praveenpkay/Customer-Segmen
 Feature extraction from electrocardiogram (ECG) signal: Extracted medically relevant data points from ECG signal captured from a sensor. Prepared an automated diagnostic heart health report containing; Decomposition of captured ECG signal and the likelihood of encountering heart disease based on lifestyle patterns.
 
 Checkout the detailed work [here](https://github.com/praveenpkay/ECG-feature-extraction-signal-analysis).
+
+
+### **6. Social Media Analytics – Classifying Type Of Influencer In Instagram:**
+
+An attempt to classify & screen high rewarding influencers for potential brand endorsements with >90% accuracy. Developed an automated influencer classification where I scraped an individual’s profile metrics, formulated, computed a dataset, and labeled them as Mega, Mid-Tier, Macro, Micro, Nano type of influencers.
+
+Checkout the detailed work [here](https://github.com/praveenpkay/Instagram-Influencer-Classification).
