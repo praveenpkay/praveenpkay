@@ -50,7 +50,7 @@ Check out the detailed work [here](https://github.com/praveenpkay/Instagram-Infl
 
 ## Other Projects!
 **Tableau:** Foreign Direct Investment, India[:point_up_2:](https://github.com/praveenpkay/Data-Visualization-Data-Cleaning)</br>
-**Kaggle:** IBM HR Attrition | SMOTE | PCA [:point_up_2:](https://github.com/praveenpkay/IBM-HR-Attrition)</br>
+**Kaggle:** IBM HR Attrition Prediction | SMOTE | PCA [:point_up_2:](https://github.com/praveenpkay/IBM-HR-Attrition)</br>
 **PySpark:** ETL IPL Data [:point_up_2:](https://github.com/praveenpkay/Pyspark-ETL)</br>
 **Kaggle:** Titanic Survival Prediction [:point_up_2:](https://github.com/praveenpkay/Titanic-Survival-Prediction)</br>
 **Data Wrangling:** Visualization| Web scraping | Statistics [:point_up_2:](https://github.com/praveenpkay/Data-Science-Fundamentals)</br>
