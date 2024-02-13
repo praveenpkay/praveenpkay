@@ -21,7 +21,7 @@ Optimized premium subscription predictions, and uncovered attributes that propel
 Checkout the detailed work [here](https://github.com/praveenpkay/Freemium-To-Premium-Predict-Likely-Subscribers).
 
 
-### **4. Customer Analytics – Customer segmentation of a wholesale distributor:**
+### **5. Customer Analytics – Customer segmentation of a wholesale distributor:**
 
 Formulated a four-segment solution through KMeans clustering, identifying 2.3M revenue growth opportunity in the retail channel based on users' annual spending patterns. 
 
