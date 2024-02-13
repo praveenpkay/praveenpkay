@@ -21,14 +21,14 @@ Optimized premium subscription predictions, and uncovered attributes that propel
 Checkout the detailed work [here](https://github.com/praveenpkay/Freemium-To-Premium-Predict-Likely-Subscribers).
 
 
-### **5. Customer Analytics – Customer segmentation of a wholesale distributor:**
+### **4. Customer Analytics – Customer segmentation of a wholesale distributor:**
 
 Formulated a four-segment solution through KMeans clustering, identifying 2.3M revenue growth opportunity in the retail channel based on users' annual spending patterns. 
 
 Checkout the detailed work [here](https://github.com/praveenpkay/Customer-Segmentation-Wholesale-distributor).
 
 
-### **4. Healthcare Analytics – Feature extraction from electrocardiogram (ECG) signal:**
+### **5. Healthcare Analytics – Feature extraction from electrocardiogram (ECG) signal:**
 
 Feature extraction from electrocardiogram (ECG) signal: Extracted medically relevant data points from ECG signal captured from a sensor. Prepared an automated diagnostic heart health report containing; Decomposition of captured ECG signal and the likelihood of encountering heart disease based on lifestyle patterns.
 
