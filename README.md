@@ -6,7 +6,7 @@
 
 ## Here are my Projects!
 
-### **1. Product Analytics – Open-AI driven product innovation in the beauty industry:**
+### **1. Product Analytics – Open-AI-driven product innovation in the beauty industry:**
 
 Customized prompt engineering on LLMs (Open AI) that conducts batch processing on product reviews extracted from e-commerce websites in Databricks, eliciting insightful product review intelligence such as topics of innovation and deducing review sentiment, presented in a dashboard.
 
@@ -45,4 +45,15 @@ Check out the detailed work [here](https://github.com/praveenpkay/ECG-feature-ex
 
 An attempt to classify & screen high rewarding influencers for potential brand endorsements with >90% accuracy. Developed an automated influencer classification where I scraped an individual’s profile metrics, formulated, computed a dataset, and labeled them as Mega, Mid-Tier, Macro, Micro, Nano type of influencers.
 
-Check out the detailed work [here](https://github.com/praveenpkay/Instagram-Influencer-Classification).
+Check out the detailed work [here](https://github.com/praveenpkay/Instagram-Influencer-Classification).</br>
+
+
+## Other Projects!
+**Tableau:** Foreign Direct Investment, India[:point_up_2:](https://github.com/praveenpkay/Data-Visualization-Data-Cleaning)</br>
+**Kaggle:** IBM HR Attrition | SMOTE | PCA [:point_up_2:](https://github.com/praveenpkay/IBM-HR-Attrition)</br>
+**PySpark:** ETL IPL Data [:point_up_2:](https://github.com/praveenpkay/Pyspark-ETL)</br>
+**Kaggle:** Titanic Survival Prediction [:point_up_2:](https://github.com/praveenpkay/Titanic-Survival-Prediction)</br>
+**Data Wrangling:** Visualization| Web scraping | Statistics [:point_up_2:](https://github.com/praveenpkay/Data-Science-Fundamentals)</br>
+**Anamoly detection:** Spam or Not a spam mail identification [:point_up_2:](https://github.com/praveenpkay/SpamBase)</br>
+
+
