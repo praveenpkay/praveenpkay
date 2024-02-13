@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 Thanks for checking out my Repository! Here are my Projects:
+
+[LinkText]([URL](https://github.com/praveenpkay/OpenAI-Driven-Review-Intelligence-In-Beauty-Industry))
+
 
 <!--
 **praveenpkay/praveenpkay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
