@@ -1,6 +1,7 @@
 ### Hi there 👋 Thanks for checking out my Repository! Here are my Projects:
 
-[LinkText]([URL](https://github.com/praveenpkay/OpenAI-Driven-Review-Intelligence-In-Beauty-Industry))
+[Google](https://www.google.com)
+
 
 
 <!--
