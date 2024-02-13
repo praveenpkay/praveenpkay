@@ -12,3 +12,11 @@ Checkout the detailed work [here](https://github.com/praveenpkay/OpenAI-Driven-R
 Customized prompt engineering on LLMs (Open AI) that conducts batch processing on product reviews extracted from e-commerce websites in Databricks, eliciting insightful product review intelligence such as topics of innovation and deducing review sentiment, presented in a dashboard.
 
 Checkout the detailed work [here](https://github.com/praveenpkay/Scrabble-Rating-Prediction).
+
+
+### **3. Marketing Analytics – Identify most likely subscribers for a music website:**
+
+Optimized premium subscription predictions, and uncovered attributes that propel subscriptions using logistic regression reducing customer acquisition cost by 53%.
+
+Checkout the detailed work [here](https://github.com/praveenpkay/Freemium-To-Premium-Predict-Likely-Subscribers).
+
