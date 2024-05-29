@@ -3,7 +3,6 @@
 - ✨ Check out my [LinkedIn](https://www.linkedin.com/in/praveenpkay/)!!
 - 💬 Ask me about Predictive Modeling or Storyboarding!! - I love making Presentations!  
 - 📧 You can also reach me through: govin098@umn.edu </br>
-- ✨ Check out my [Resume](https://shorturl.at/lMTZ5)!!
 
 ## Here are my Projects!
 
